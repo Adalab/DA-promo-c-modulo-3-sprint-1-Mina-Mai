@@ -1,6 +1,7 @@
 # DA-promo-c-modulo-3-sprint-1-Mina-Mai
 
 Repositorio con ejercicios de pair programing del módulo 3-sprint 1 del Bootcamp de Data Analyst PromoC
+
 Marina Rodríguez y Marina Ruiz
 
 ---
