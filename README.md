@@ -56,19 +56,19 @@
 
 **Librerías utilizadas:**
 
-# Tratamiento de los datos
+- Tratamiento de los datos
 import pandas as pd
 import numpy as np
 import random 
-
-# Gráficas
-import matplotlib.pyplot as plt
-import seaborn as sns
 import sidetable 
 import awoc
 from tqdm import tqdm
 
-# Estadísticos
+- Gráficas
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+- Estadísticos
 from scipy.stats import skew
 from scipy.stats import kurtosistest
 from scipy.stats import kstest
@@ -80,14 +80,14 @@ from sklearn.preprocessing import MinMaxScaler
 import statsmodels.api as sm
 from statsmodels.formula.api import ols
 
-# Estandarización
+- Estandarización
 from sklearn.preprocessing import StandardScaler
 
-# Codificación de las variables numéricas
+- Codificación de las variables numéricas
 from sklearn.preprocessing import LabelEncoder 
 from sklearn.preprocessing import OneHotEncoder 
 
-# Modelado y evaluación
+- Modelado y evaluación
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeClassifier
@@ -99,15 +99,15 @@ from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score , cohen_kappa_score, roc_curve,roc_auc_score
 
-# Crossvalidation
+- Crossvalidation
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import cross_validate
 from sklearn import metrics
 
-# Gestión datos desbalanceados
+- Gestión datos desbalanceados
 from imblearn.combine import SMOTETomek
 
-# Configuración warnings
+- Configuración warnings
 import warnings
 warnings.filterwarnings('ignore')
 
