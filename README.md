@@ -1,7 +1,9 @@
 
-### Repositorio con ejercicios de pair programing del módulo 3-sprint 1 del Bootcamp de Data Analyst PromoC
+### Repositorio con ejercicios de pair programing del módulo 3-sprint 1 
 
 **Marina Rodríguez y Marina Ruiz**
+
+En este repositorio encontraremos los ejercicios realizados en el pair programing del bootcamp de Data Analyst Promo C de Adalab, siguiendo las metodologías de Scrum de la filosofía Agile.
 
 ---
 
@@ -20,8 +22,10 @@
 - Random Forest
 
 En estos archivos encontramos un acercamiento a un modelo predictivo de regresión lineal, donde intentaremos predecir el número de personas que usan el metro de Wisconsin y si este está influido por el clima.
+
 Nuestra H0 será que el clima no afecta al volumen de personas que cogen el metro.
 Y nuestra H1 será que el clima si afecta al volumen de personas que cogen el metro.
+
 A través de estos jupyters veremos el proceso que se seguiría en una regresión lineal normal y su alternativa de usar modelos como el Decision Tree y el Random Forest. 
 
 ---
@@ -45,6 +49,7 @@ Y nuestra H1 será que la hora y el día si influye en la gente que acude al met
 - Random Forest
 
 En estos archivos encontraremos el proceso a seguir en un modelo predictivo de regresión logística, donde intentaremos predecir si los clientes de una aseguradora de agencias de viajes van a reclamar o no el seguro comprado.
+
 Seguiremos los pasos que llevan a una regresión logística y haremos la comparativa con los modelos de Decision Tree y Random Forest.
 
 ---
