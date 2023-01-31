@@ -20,7 +20,6 @@
 - Random Forest
 
 En estos archivos encontramos un acercamiento a un modelo predictivo de regresión lineal, donde intentaremos predecir el número de personas que usan el metro de Wisconsin y si este está influido por el clima.
-
 Nuestra H0 será que el clima no afecta al volumen de personas que cogen el metro.
 Y nuestra H1 será que el clima si afecta al volumen de personas que cogen el metro.
 A través de estos jupyters veremos el proceso que se seguiría en una regresión lineal normal y su alternativa de usar modelos como el Decision Tree y el Random Forest. 
