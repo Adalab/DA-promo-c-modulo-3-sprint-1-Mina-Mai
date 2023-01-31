@@ -73,56 +73,55 @@ Seguiremos los pasos que llevan a una regresión logística y haremos la compara
 **Librerías utilizadas:**
 
 - Tratamiento de los datos
-    - pandas as pd
-    - numpy as np
+    - pandas
+    - numpy
     - random 
     - sidetable 
     - awoc
     - tqdm
 
 - Gráficas
-    - matplotlib.pyplot as plt
-    - seaborn as sns
+    - matplotlib.pyplot
+    - seaborn
+    - warnings
 
 - Estadísticos
-    - scipy.stats import skew
-    - from scipy.stats import kurtosistest
-    - from scipy.stats import kstest
-    - from scipy import stats
-    - import researchpy as rp
-    - from scipy.stats import levene
-    - import math 
-    - from sklearn.preprocessing import MinMaxScaler
-    - import statsmodels.api as sm
-    - from statsmodels.formula.api import ols
+    - scipy.stats método skew
+    - scipy.stats método kurtosistest
+    - scipy.stats método kstest
+    - scipy método stats
+    - researchpy 
+    - scipy.stats método levene
+    - math 
+    - sklearn.preprocessing método MinMaxScaler
+    - statsmodels.api
+    - statsmodels.formula.api método ols
 
 - Estandarización
-    - from sklearn.preprocessing import StandardScaler
+    - sklearn.preprocessing método StandardScaler
 
 - Codificación de las variables numéricas
-    - from sklearn.preprocessing import LabelEncoder 
-    - from sklearn.preprocessing import OneHotEncoder 
+    - sklearn.preprocessing método LabelEncoder 
+    - sklearn.preprocessing método OneHotEncoder 
 
 - Modelado y evaluación
-    - from sklearn.model_selection import train_test_split
-    - from sklearn.linear_model import LinearRegression
-    - from sklearn.tree import DecisionTreeClassifier
-    - from sklearn.tree import DecisionTreeRegressor
-    - from sklearn.ensemble import RandomForestClassifier
-    - from sklearn import tree
-    - from sklearn.model_selection import GridSearchCV
-    - from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
-    - from sklearn.linear_model import LogisticRegression
-    - from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score , cohen_kappa_score, roc_curve,roc_auc_score
+    - sklearn.model_selection método train_test_split
+    - sklearn.linear_model método LinearRegression
+    - sklearn.tree método DecisionTreeClassifier
+    - sklearn.tree método DecisionTreeRegressor
+    - sklearn.ensemble método RandomForestClassifier
+    - sklearn método tree
+    - sklearn.model_selection método GridSearchCV
+    - sklearn.metrics método r2_score, mean_squared_error, mean_absolute_error
+    - sklearn.linear_model método LogisticRegression
+    - sklearn.metrics método confusion_matrix, accuracy_score, precision_score, recall_score, f1_score , cohen_kappa_score, roc_curve,roc_auc_score
 
 - Crossvalidation
-    - from sklearn.model_selection import cross_val_score
-    - from sklearn.model_selection import cross_validate
-    - from sklearn import metrics
+    - sklearn.model_selection método cross_val_score
+    - sklearn.model_selection método cross_validate
+    - sklearn método metrics
 
 - Gestión datos desbalanceados
-    - from imblearn.combine import SMOTETomek
+    - imblearn.combine método SMOTETomek
 
-- Configuración warnings
-    - import warnings
 
