@@ -19,11 +19,19 @@
 - Decision Tree
 - Random Forest
 
+En estos archivos encontramos un acercamiento a un modelo predictivo de regresión lineal, donde intentaremos predecir el número de personas que usan el metro de Wisconsin y si este está influido por el clima.
+
+Nuestra H0 será que el clima no afecta al volumen de personas que cogen el metro.
+Y nuestra H1 será que el clima si afecta al volumen de personas que cogen el metro.
+A través de estos jupyters veremos el proceso que se seguiría en una regresión lineal normal y su alternativa de usar modelos como el Decision Tree y el Random Forest. 
 ---
 
 **Carpeta *Regresion_linal_2*:**
 
-- Hacemos de nuevo los procesos necesarios para preparar sobre los mismo datos del metro un nuevo modélo de predicción.
+En los archivos de esta carpeta volveremos sobre los primeros pasos del proyecto anterior de regresion_lineal y replantearemos nuestra hipótesis alternativa con la finalidad de obtener mejores resultados en nuestras predicciones sobre el número de personas que cogen el metro de Wisconsin.
+
+Nuestra H0 será que la hora y el día no influyen en la gente que acude al metro.
+Y nuestra H1 será que la hora y el día si influye en la gente que acude al metro.
 
 ---
 
@@ -35,6 +43,9 @@
 - Métricas regresión logística
 - Decision Tree
 - Random Forest
+
+En estos archivos encontraremos el proceso a seguir en un modelo predictivo de regresión logística, donde intentaremos predecir si los clientes de una aseguradora de agencias de viajes van a reclamar o no el seguro comprado.
+Seguiremos los pasos que llevan a una regresión logística y haremos la comparativa con los modelos de Decision Tree y Random Forest.
 
 ---
 
