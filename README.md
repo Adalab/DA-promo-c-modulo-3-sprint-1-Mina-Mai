@@ -1,5 +1,5 @@
 
-### Repositorio con ejercicios de pair programing del módulo 3-sprint 1 
+### Repositorio con ejercicios de pair programing del módulo 3-sprint 1 promo C 
 
 **Marina Rodríguez y Marina Ruiz**
 
